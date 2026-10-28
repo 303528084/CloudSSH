@@ -12,7 +12,7 @@
   </p>
   <p>
     <a href="#highlights">核心优势</a> ·
-    <a href="#features">功能特性</a> ·
+    <a href="#features">功能 特性</a> ·
     <a href="#quick-start">部署指南</a> ·
     <a href="#architecture">架构设计</a> ·
     <a href="CHANGELOG.md">更新日志</a> ·
